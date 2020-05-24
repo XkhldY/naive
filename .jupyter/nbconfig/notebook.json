@@ -1,0 +1,7 @@
+{
+  "load_extensions": {
+    "dc_extension/index": true,
+    "hide_input/main": true,
+    "freeze/main": true
+  }
+}

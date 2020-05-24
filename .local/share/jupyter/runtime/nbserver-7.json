@@ -1,0 +1,11 @@
+{
+  "base_url": "/proxy/absolute/79feee1b1dde37a5225631b4691e906f/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/repl",
+  "password": false,
+  "pid": 7,
+  "port": 3000,
+  "secure": false,
+  "token": "",
+  "url": "http://0.0.0.0:3000/proxy/absolute/79feee1b1dde37a5225631b4691e906f/"
+}
